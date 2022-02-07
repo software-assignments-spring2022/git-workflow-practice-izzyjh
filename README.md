@@ -13,3 +13,6 @@ It was really interesting to read about the predicted and currently emerging tre
 ## Comment from Yousuf Kidwai:
 
 I think this article is really interesting. I wonder if the integration of artificial intelligence into many existing technologies will also lead to artificial intelligence being able to code better than human software developers. Also, I do think that the hybrid model will become a new norm in today's working society, especially for companies that found that they were able to produce better when their employees were working remote.
+
+## Comment from Hannah Harvard
+I think the part about working remotely intrigues me a lot. I'm unsure about whether or not I favor it but I have seen a lot of companies promote and become much more open to it. I wonder if it will continue after the pandemic ends... whenever that does happen.
